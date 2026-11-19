@@ -113,7 +113,7 @@ State- and sector-level retail analysis using Python data preparation and Tablea
 Pricing, discounts, product reviews and customer-rating analysis. Academic team project.<br/>
 <a href="https://github.com/aditi650/myntra_analysis">Explore repository →</a>
 </td></tr>
-<tr><td width="50%"></td><td width="50%">
+<tr><td width="50%">
 <a href="https://github.com/aditi650/Data-Science-Salaries"><img src="assets/card-salaries.svg" width="100%" alt="Data Science Salary Analysis" /></a>
 <b>Data Science Salary Analysis</b><br/>
 Exploratory analysis, statistical testing and salary prediction. Completed academic team project.<br/>
