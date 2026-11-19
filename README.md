@@ -21,16 +21,69 @@ My interests include **LLM interpretability**, **deep learning**, **model evalua
 
 ### ✧ Technical toolkit
 
+**Programming & Data**
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-17122b?style=for-the-badge&logo=python&logoColor=bd88ff)
+![SQL](https://img.shields.io/badge/SQL-17122b?style=for-the-badge&logoColor=bd88ff)
+![NumPy](https://img.shields.io/badge/NumPy-17122b?style=for-the-badge&logo=numpy&logoColor=bd88ff)
+![Pandas](https://img.shields.io/badge/Pandas-17122b?style=for-the-badge&logo=pandas&logoColor=bd88ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-17122b?style=for-the-badge&logo=plotly&logoColor=bd88ff)
+![Seaborn](https://img.shields.io/badge/Seaborn-17122b?style=for-the-badge&logo=python&logoColor=bd88ff)
+
+</div>
+
+**Machine Learning & Deep Learning**
+
+<div align="center">
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-17122b?style=for-the-badge&logo=pytorch&logoColor=bd88ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-17122b?style=for-the-badge&logo=tensorflow&logoColor=bd88ff)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-17122b?style=for-the-badge&logo=scikitlearn&logoColor=bd88ff)
-![Pandas](https://img.shields.io/badge/Pandas-17122b?style=for-the-badge&logo=pandas&logoColor=bd88ff)
-![SQL](https://img.shields.io/badge/SQL-17122b?style=for-the-badge&logo=postgresql&logoColor=bd88ff)
+![Keras](https://img.shields.io/badge/Keras-17122b?style=for-the-badge&logo=keras&logoColor=bd88ff)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-17122b?style=for-the-badge&logo=scikitlearn&logoColor=bd88ff)
+![CNNs](https://img.shields.io/badge/CNNs-17122b?style=for-the-badge&logoColor=bd88ff)
+![LSTMs](https://img.shields.io/badge/LSTMs-17122b?style=for-the-badge&logoColor=bd88ff)
+![GRUs](https://img.shields.io/badge/GRUs-17122b?style=for-the-badge&logoColor=bd88ff)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-17122b?style=for-the-badge&logoColor=bd88ff)
+
+</div>
+
+**LLMs & Interpretability**
+
+<div align="center">
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-17122b?style=for-the-badge&logo=huggingface&logoColor=bd88ff)
+![Transformers](https://img.shields.io/badge/Transformers-17122b?style=for-the-badge&logoColor=bd88ff)
+![Sparse Autoencoders](https://img.shields.io/badge/Sparse%20Autoencoders-17122b?style=for-the-badge&logoColor=bd88ff)
+![Representation Probing](https://img.shields.io/badge/Representation%20Probing-17122b?style=for-the-badge&logoColor=bd88ff)
+![Activation Steering](https://img.shields.io/badge/Activation%20Steering-17122b?style=for-the-badge&logoColor=bd88ff)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-17122b?style=for-the-badge&logoColor=bd88ff)
+
+</div>
+
+**Tools & Infrastructure**
+
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-17122b?style=for-the-badge&logo=git&logoColor=bd88ff)
+![GitHub](https://img.shields.io/badge/GitHub-17122b?style=for-the-badge&logo=github&logoColor=bd88ff)
+![Linux](https://img.shields.io/badge/Linux-17122b?style=for-the-badge&logo=linux&logoColor=bd88ff)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-17122b?style=for-the-badge&logo=amazonaws&logoColor=bd88ff)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-17122b?style=for-the-badge&logo=jupyter&logoColor=bd88ff)
+![Docker](https://img.shields.io/badge/Docker-17122b?style=for-the-badge&logo=docker&logoColor=bd88ff)
+
+</div>
+
+**Visualization & Analytics**
+
+<div align="center">
+
 ![Tableau](https://img.shields.io/badge/Tableau-17122b?style=for-the-badge&logo=tableau&logoColor=bd88ff)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-17122b?style=for-the-badge&logoColor=bd88ff)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-17122b?style=for-the-badge&logoColor=bd88ff)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-17122b?style=for-the-badge&logoColor=bd88ff)
+![SHAP](https://img.shields.io/badge/SHAP-17122b?style=for-the-badge&logoColor=bd88ff)
 
 </div>
 
