@@ -97,10 +97,10 @@ My interests include **LLM interpretability**, **deep learning**, **model evalua
 Machine-learning models for predicting resource overload from CPU and memory metrics, with an evaluation of threshold-driven scaling behavior.<br/>
 <a href="https://github.com/aditi650/kubernetes-predicting-models">Explore repository →</a>
 </td><td width="50%">
-<a href="https://github.com/aditi650/Data-Science-Salaries"><img src="assets/card-salaries.svg" width="100%" alt="Data Science Salary Analysis" /></a>
-<b>Data Science Salary Analysis</b><br/>
-Exploratory analysis, statistical testing and salary prediction. Completed academic team project.<br/>
-<a href="https://github.com/aditi650/Data-Science-Salaries">Explore repository →</a>
+<a href="https://github.com/caffeinated4ighs/Learn_Loop"><img src="assets/card-learnloop.svg" width="100%" alt="LearnLoop multimodal RAG study assistant" /></a>
+<b>LearnLoop — Multimodal RAG Study Assistant</b><br/>
+Collaborative NLP project that ingests course materials, retrieves relevant content, and generates answers, summaries, quizzes, and flashcards using retrieval-augmented generation.<br/>
+<a href="https://github.com/caffeinated4ighs/Learn_Loop">Explore collaborative repository →</a>
 </td></tr>
 <tr><td width="50%">
 <a href="https://github.com/aditi650/retail_dashboard"><img src="assets/card-retail.svg" width="100%" alt="U.S. Retail Opportunity Dashboard" /></a>
@@ -113,12 +113,12 @@ State- and sector-level retail analysis using Python data preparation and Tablea
 Pricing, discounts, product reviews and customer-rating analysis. Academic team project.<br/>
 <a href="https://github.com/aditi650/myntra_analysis">Explore repository →</a>
 </td></tr>
-<tr><td width="50%">
-<a href="https://github.com/caffeinated4ighs/Learn_Loop"><img src="assets/card-learnloop.svg" width="100%" alt="LearnLoop multimodal RAG study assistant" /></a>
-<b>LearnLoop — Multimodal RAG Study Assistant</b><br/>
-Collaborative NLP project that ingests course materials, retrieves relevant content, and generates answers, summaries, quizzes, and flashcards using retrieval-augmented generation.<br/>
-<a href="https://github.com/caffeinated4ighs/Learn_Loop">Explore collaborative repository →</a>
-</td><td width="50%"></td></tr>
+<tr><td width="50%"></td><td width="50%">
+<a href="https://github.com/aditi650/Data-Science-Salaries"><img src="assets/card-salaries.svg" width="100%" alt="Data Science Salary Analysis" /></a>
+<b>Data Science Salary Analysis</b><br/>
+Exploratory analysis, statistical testing and salary prediction. Completed academic team project.<br/>
+<a href="https://github.com/aditi650/Data-Science-Salaries">Explore repository →</a>
+</td></tr>
 </table>
 
 ### ✧ Projects I'm currently working on
