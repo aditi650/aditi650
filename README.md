@@ -70,6 +70,7 @@ My interests include **LLM interpretability**, **deep learning**, **model evalua
 ![GitHub](https://img.shields.io/badge/GitHub-17122b?style=for-the-badge&logo=github&logoColor=bd88ff)
 ![Linux](https://img.shields.io/badge/Linux-17122b?style=for-the-badge&logo=linux&logoColor=bd88ff)
 ![AWS](https://img.shields.io/badge/AWS-17122b?style=for-the-badge&logo=amazonaws&logoColor=bd88ff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-17122b?style=for-the-badge&logo=kubernetes&logoColor=bd88ff)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-17122b?style=for-the-badge&logo=jupyter&logoColor=bd88ff)
 ![Docker](https://img.shields.io/badge/Docker-17122b?style=for-the-badge&logo=docker&logoColor=bd88ff)
 
