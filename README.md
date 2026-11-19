@@ -7,10 +7,7 @@
 **M.S. Data Science · The George Washington University**  
 **AI/ML · Deep Learning · LLM Interpretability · Data Science**
 
-[![GitHub](https://img.shields.io/badge/GitHub-aditi650-151126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi650)
-[![Research](https://img.shields.io/badge/Research-Sparse_Autoencoders-7d40ce?style=for-the-badge)](#current-research--work-in-progress)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7d40ce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi334)
-[![Email](https://img.shields.io/badge/Email-Contact-7d40ce?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaaditi334@gmail.com)
 
 </div>
 
@@ -37,7 +34,7 @@ My interests include **LLM interpretability**, **deep learning**, **model evalua
 
 </div>
 
-### ✦ Selected project work
+### ✦ Projects
 
 <table>
 <tr><td width="50%">
@@ -64,26 +61,20 @@ Pricing, discounts, product reviews and customer-rating analysis. Academic team 
 </td></tr>
 </table>
 
-### ✧ Current research & work in progress
+### ✧ Projects I'm currently working on
 
-**Sparse Autoencoder Faithfulness — LLM Interpretability Capstone**  
-Investigating how faithfully sparse autoencoders reconstruct and preserve language-model activations, truth-related representations and causal effects. Research includes **GPT-2 Small**, **Gemma 2 2B**, and **ReLU, TopK and JumpReLU** architectures, using reconstruction, probing and steering evaluations. **Research in progress.**
+**Sparse Autoencoder Faithfulness — LLM Interpretability**  
+Researching how sparse autoencoders preserve language-model activations, truth-related representations, and causal behavior. Comparing **GPT-2 Small** and **Gemma 2 2B** with **ReLU, TopK, and JumpReLU** architectures across reconstruction, probing, and steering evaluations.
 
-**Oil Price Forecasting**  
-Developing time-series forecasting approaches for **WTI and Brent** prices using **LSTM/GRU** architectures and feature analysis. **In progress.**
+**Oil Price Forecasting — Time Series & Deep Learning**  
+Building and evaluating **LSTM/GRU** forecasting approaches for **WTI and Brent** oil prices, with feature analysis and model comparisons.
 
-**Deep Learning & Computer Vision**  
-Exploring image classification using **MobileNetV2 transfer learning** and fine-tuning. [Intel scene-classification repository](https://github.com/aditi650/Machine_learning-). **Completion status not yet verified.**
+**Deep Learning — Multi-Label Image Classification**  
+Working on a deep-learning image classification project, including model training, validation, and prediction pipelines.
 
-### ✦ GitHub activity
+**Music Genre Classification — Audio Deep Learning**  
+Exploring **CNN-based classification** of audio using the **GTZAN** dataset.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aditi650&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0B0B1B&title_color=B78AFF&text_color=DDDAF5&icon_color=A875FF" alt="GitHub statistics for aditi650" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditi650&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0B0B1B&title_color=B78AFF&text_color=DDDAF5" alt="Languages used in public GitHub repositories" />
-
-</div>
 
 ---
 
