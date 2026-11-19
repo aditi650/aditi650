@@ -113,6 +113,12 @@ State- and sector-level retail analysis using Python data preparation and Tablea
 Pricing, discounts, product reviews and customer-rating analysis. Academic team project.<br/>
 <a href="https://github.com/aditi650/myntra_analysis">Explore repository →</a>
 </td></tr>
+<tr><td width="50%">
+<a href="https://github.com/caffeinated4ighs/Learn_Loop"><img src="assets/card-learnloop.svg" width="100%" alt="LearnLoop multimodal RAG study assistant" /></a>
+<b>LearnLoop — Multimodal RAG Study Assistant</b><br/>
+Collaborative NLP project that ingests course materials, retrieves relevant content, and generates answers, summaries, quizzes, and flashcards using retrieval-augmented generation.<br/>
+<a href="https://github.com/caffeinated4ighs/Learn_Loop">Explore collaborative repository →</a>
+</td><td width="50%"></td></tr>
 </table>
 
 ### ✧ Projects I'm currently working on
