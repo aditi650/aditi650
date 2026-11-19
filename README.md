@@ -69,12 +69,6 @@ Researching how sparse autoencoders preserve language-model activations, truth-r
 **Oil Price Forecasting — Time Series & Deep Learning**  
 Building and evaluating **LSTM/GRU** forecasting approaches for **WTI and Brent** oil prices, with feature analysis and model comparisons.
 
-**Deep Learning — Multi-Label Image Classification**  
-Working on a deep-learning image classification project, including model training, validation, and prediction pipelines.
-
-**Music Genre Classification — Audio Deep Learning**  
-Exploring **CNN-based classification** of audio using the **GTZAN** dataset.
-
 
 ---
 
