@@ -9,6 +9,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-aditi650-151126?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi650)
 [![Research](https://img.shields.io/badge/Research-Sparse_Autoencoders-7d40ce?style=for-the-badge)](#current-research--work-in-progress)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7d40ce?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi334)
+[![Email](https://img.shields.io/badge/Email-Contact-7d40ce?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuklaaditi334@gmail.com)
 
 </div>
 
