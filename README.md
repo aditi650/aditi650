@@ -121,15 +121,6 @@ Exploratory analysis, statistical testing and salary prediction. Completed acade
 </td></tr>
 </table>
 
-### ✧ Projects I'm currently working on
-
-**Sparse Autoencoder Faithfulness — LLM Interpretability**  
-Researching how sparse autoencoders preserve language-model activations, truth-related representations, and causal behavior. Comparing **GPT-2 Small** and **Gemma 2 2B** with **ReLU, TopK, and JumpReLU** architectures across reconstruction, probing, and steering evaluations.
-
-**Oil Price Forecasting — Time Series & Deep Learning**  
-Building and evaluating **LSTM/GRU** forecasting approaches for **WTI and Brent** oil prices, with feature analysis and model comparisons.
-
-
 ### ✦ Technical Practice
 
 <table>
@@ -140,6 +131,16 @@ Implementing machine learning algorithms, linear algebra, and deep learning fund
 <a href="https://github.com/aditi650/TensorTonic-Solutions">Explore repository →</a>
 </td></tr>
 </table>
+
+### ✧ Projects I'm currently working on
+
+**Sparse Autoencoder Faithfulness — LLM Interpretability**  
+Researching how sparse autoencoders preserve language-model activations, truth-related representations, and causal behavior. Comparing **GPT-2 Small** and **Gemma 2 2B** with **ReLU, TopK, and JumpReLU** architectures across reconstruction, probing, and steering evaluations.
+
+**Oil Price Forecasting — Time Series & Deep Learning**  
+Building and evaluating **LSTM/GRU** forecasting approaches for **WTI and Brent** oil prices, with feature analysis and model comparisons.
+
+
 
 ---
 
