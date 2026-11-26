@@ -125,11 +125,11 @@ Exploratory analysis, statistical testing and salary prediction. Completed acade
 
 <table>
 <tr><td width="50%">
-<a href="https://github.com/aditi650/TensorTonic-Solutions"><img src="assets/card-tensortonic.svg" width="100%" alt="TensorTonic Solutions" /></a><br/>
-<b>TensorTonic — Ongoing</b><br/>
+<a href="https://github.com/aditi650/TensorTonic-Solutions"><img src="assets/card-tensortonic.svg" width="395" alt="TensorTonic Solutions" /></a><br/>
+<b>TensorTonic Solutions</b><br/>
 ML algorithms and linear algebra from scratch using Python and NumPy.<br/>
 <a href="https://github.com/aditi650/TensorTonic-Solutions">Explore repository →</a>
-</td><td width="50%"></td></tr>
+</td></tr>
 </table>
 
 ### ✧ Projects I'm currently working on
