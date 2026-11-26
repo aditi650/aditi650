@@ -130,6 +130,17 @@ Researching how sparse autoencoders preserve language-model activations, truth-r
 Building and evaluating **LSTM/GRU** forecasting approaches for **WTI and Brent** oil prices, with feature analysis and model comparisons.
 
 
+### ✦ Technical Practice
+
+<table>
+<tr><td width="50%">
+<a href="https://github.com/aditi650/TensorTonic-Solutions"><img src="assets/card-tensortonic.svg" width="100%" alt="TensorTonic Solutions" /></a>
+<b>TensorTonic — Ongoing</b><br/>
+Implementing machine learning algorithms, linear algebra, and deep learning fundamentals from scratch using Python and NumPy.<br/>
+<a href="https://github.com/aditi650/TensorTonic-Solutions">Explore repository →</a>
+</td></tr>
+</table>
+
 ---
 
 <div align="center">
