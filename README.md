@@ -125,9 +125,9 @@ Exploratory analysis, statistical testing and salary prediction. Completed acade
 
 <table>
 <tr><td width="50%">
-<a href="https://github.com/aditi650/TensorTonic-Solutions"><img src="assets/card-tensortonic.svg" width="100%" alt="TensorTonic Solutions" /></a>
+<a href="https://github.com/aditi650/TensorTonic-Solutions"><img src="assets/card-tensortonic.svg" width="320" alt="TensorTonic Solutions" /></a>
 <b>TensorTonic — Ongoing</b><br/>
-Implementing machine learning algorithms, linear algebra, and deep learning fundamentals from scratch using Python and NumPy.<br/>
+ML algorithms and linear algebra from scratch using Python and NumPy.<br/>
 <a href="https://github.com/aditi650/TensorTonic-Solutions">Explore repository →</a>
 </td></tr>
 </table>
